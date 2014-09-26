@@ -45,7 +45,7 @@ $app->get('/blog/{id}', function (Application $app, $id) use ($blogPosts) {
 });
 
 $app->get('/', function ($name = 'test') use ($app) {
-    return 'It works! ' . $app->escape($name);
+    return 'It works!  ' . $app->escape($name);
 });
 
 $app->run();
