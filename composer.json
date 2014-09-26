@@ -1,5 +1,15 @@
 {
+    "name": "travis/silex",
+    "description": "Playing around with silex",
     "require": {
-		"silex/silex": "1.2.1"
-    }
+        "silex/silex": "1.2.1"
+    },
+    "license": "1",
+    "authors": [
+        {
+            "name": "Travis South",
+            "email": "irvin.capagcuan@bayviewtechnology.com"
+        }
+    ],
+    "minimum-stability": "stable"
 }
