@@ -2,7 +2,7 @@
     "name": "travis/silex",
     "description": "Playing around with silex",
     "require": {
-        "silex/silex": "1.2.1"
+        "silex/silex": "~1.2"
     },
     "license": "GPL",
     "authors": [
