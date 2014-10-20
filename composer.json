@@ -4,12 +4,15 @@
     "require": {
         "silex/silex": "~1.2"
     },
-    "license": "GPL",
+    "license": "MIT",
     "authors": [
         {
             "name": "Travis South",
             "email": "irvin.capagcuan@bayviewtechnology.com"
         }
     ],
+    "require": {
+        "php": ">=5.4"
+    },
     "minimum-stability": "stable"
 }
